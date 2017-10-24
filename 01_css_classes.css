@@ -1,12 +1,13 @@
-body {
-	background: blue;
+.body {
+	background: yellow;
 }
-div {
+.div{
+	border:10px solid blue;
 	background: grey;
 }
-p {
+.para{
 	color: green;
 }
-li {
+.list {
 	color: blue;
 }
